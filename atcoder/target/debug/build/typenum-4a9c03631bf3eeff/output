@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/kenohkawa/Projects/competitive-programming/atcoder/target/debug/build/typenum-4a9c03631bf3eeff/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/kenohkawa/Projects/competitive-programming/atcoder/target/debug/build/typenum-4a9c03631bf3eeff/out/op.rs
